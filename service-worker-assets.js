@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-n2ZmR4o8xXWoVx4nRl\/M77AYoiT5ZFgctiMOLtLQQWA=",
+      "hash": "sha256-jzkHz6oreP43cWXlmiI4KrP0\/ZF9JmyI8Qwi\/boQwgA=",
       "url": "css\/app.css"
     },
     {
@@ -17,8 +17,12 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-AU8yo+x\/4yxnMyr4ETlzLm8AnGLcgJZNcgh4VD3kBKw=",
+      "hash": "sha256-ONUw1rgSWMygMJKvr2ST\/Lls+xzTqTBxhD5CsRPvKBs=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-IfFqbVPU7iPvrmGmO5CpRES\/hdY0x54i1ooth9RP1BE=",
+      "url": "js\/app.js"
     },
     {
       "hash": "sha256-bwNds5n7AAJHxvlfab4Ac8Mjji+KspIsgty15U9vAoA=",
@@ -57,7 +61,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-x\/iMIIacqoTa\/wvkyROLdpjkLqgLGIAf0hPSgtthVuc=",
+      "hash": "sha256-IadF2jqX9MmVDo33QWAbPhcK3eMoP6CrzbSHWH+6Eek=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -77,7 +81,7 @@
       "url": "_framework\/Blazorise.wasm"
     },
     {
-      "hash": "sha256-cGp\/MGZjAqdoD5DC6S7g1UvQOC8IiynNCI2mFhB2oC0=",
+      "hash": "sha256-w6n37NGFe9LfkUtNe3sYyFvr1b+ilSYYR+VIUZadKj4=",
       "url": "_framework\/CA3_X00167885.wasm"
     },
     {
@@ -97,7 +101,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
-      "hash": "sha256-4\/UWiSs8JeafHd909S5eBjbSs3t4xjgGVp4vYd48+Zo=",
+      "hash": "sha256-elwAae7LAjEwukdOGO2Blcfs4U0aapAZxUFs2E3Y7CI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
@@ -117,7 +121,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "hash": "sha256-3fNEXahV5qxYEFfrbpAAC2ySTA65XJYvPwV1NyRXYws=",
+      "hash": "sha256-hihwbz7\/zS3YNhY6xE6YkAaaUV8XW7P\/P23YATh4RgM=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
     },
     {
@@ -125,15 +129,27 @@
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
-      "hash": "sha256-x\/ani8NQOjvLtAq+Vig4UTcaBRMf6VOL+v+VfwaG3mA=",
+      "hash": "sha256-\/ZO9pdDuyENWL5A1ZMqAtCldXgeH4NtHCdT26SgcyXg=",
+      "url": "_framework\/Microsoft.Extensions.Diagnostics.Abstractions.wasm"
+    },
+    {
+      "hash": "sha256-nN9+f6ZapwKtfsKk4IF0KzI4CMvRe9Lqz0ITp6awTro=",
+      "url": "_framework\/Microsoft.Extensions.Diagnostics.wasm"
+    },
+    {
+      "hash": "sha256-mSuoND1NAOdXiIV4+DOmP9M6wAS27XcK+GOVBlynIBQ=",
+      "url": "_framework\/Microsoft.Extensions.Http.wasm"
+    },
+    {
+      "hash": "sha256-NTSeiyJRtLyG8MDK\/cp9AZb4YImdbY18iwQzmhEP7OI=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "hash": "sha256-8BH+kQfjYuZWxprOICXJ4+tU0OdJOYDKN7G0S3zYYHI=",
+      "hash": "sha256-UNn4eAqAPtbSHgJnCReGvnpT50olnwgaf\/pMvcWBHkI=",
       "url": "_framework\/Microsoft.Extensions.Logging.wasm"
     },
     {
-      "hash": "sha256-6DN1malfyp0G0uOYwQY0nIN60XdXpVXUXXw0X2c8V8E=",
+      "hash": "sha256-Q7yCUF8lBIRsHXh12SAht7Oqa3DV9FqcNHIo0NyR+qw=",
       "url": "_framework\/Microsoft.Extensions.Options.wasm"
     },
     {
@@ -141,7 +157,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "hash": "sha256-RIpZqxt9l4blmE1JinZPExF6gn3qEVnxtCtKjK1eSzw=",
+      "hash": "sha256-MA\/2mKCqQOBembLiyNMg5Y0p7p2qdJRfCyZlNx3cK6I=",
       "url": "_framework\/Microsoft.JSInterop.wasm"
     },
     {
@@ -205,7 +221,7 @@
       "url": "_framework\/System.Data.Common.wasm"
     },
     {
-      "hash": "sha256-jQuxmMdXPhZ4+HlLWanqVQZ+gwf74I\/3JxWFzWtBKmM=",
+      "hash": "sha256-Z0lTx3eOZct6m5uk1\/HALTTmuvUKdox31G+\/vNLG7vU=",
       "url": "_framework\/System.Diagnostics.DiagnosticSource.wasm"
     },
     {
@@ -237,7 +253,7 @@
       "url": "_framework\/System.Memory.wasm"
     },
     {
-      "hash": "sha256-6HfOd\/DdG9+2hPr+vf9l\/sKHWRoAYu8m0mWf7QEQlr0=",
+      "hash": "sha256-mrDYxwl6AoMsebYloEzt9PUTbXGsURHeOflprqNT+jo=",
       "url": "_framework\/System.Net.Http.wasm"
     },
     {
@@ -249,7 +265,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-uTeuUfDnm70xvg2LVwzCtfZMRcEGZrMLgNlAP4a1J94=",
+      "hash": "sha256-Qk1tD\/AvR94tn90u8YX2R+Ywu86fJC4TMn+O5dwaY3w=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -501,5 +517,5 @@
       "url": "_content\/Blazorise\/vendors\/sha512.js"
     }
   ],
-  "version": "NfRo29RH"
+  "version": "K35SGpZH"
 };

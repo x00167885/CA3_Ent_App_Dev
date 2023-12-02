@@ -116,15 +116,31 @@ code {
         object-fit: cover;
     }
 
+    /* Like & remove.*/
+
     /* Adjust the button positioning as needed */
-    .image-container .like-button {
+    .image-container .like-remove-button {
         display: none;
         bottom: 1rem;
         right: 1rem;
     }
 
     /* Displaying button on image hover */
-    .image-container:hover .like-button {
+    .image-container:hover .like-remove-button {
+        display: block;
+    }
+
+    /* Download.*/
+
+    /* Adjust the button positioning as needed */
+    .image-container .download-button {
+        display: none;
+        bottom: 1rem;
+        left: 1rem;
+    }
+
+    /* Displaying button on image hover */
+    .image-container:hover .download-button {
         display: block;
     }
 
@@ -135,4 +151,3 @@ code {
         right: 1rem;
         font-size: 1.5rem;
     }
-
