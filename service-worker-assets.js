@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-aPakaUK8hq\/7XtGFSAbkZ2KONNIs9mdW26+6NA85ckQ=",
+      "hash": "sha256-cTagdgs5bfG59NT3JVWeX2hRGuzyLM\/V0HC3ywsqBaM=",
       "url": "css\/app.css"
     },
     {
@@ -17,7 +17,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-gaGAXkMxE6xoQ5K3kBAfPNwl1\/GoPkMyKhbzLxk+cFY=",
+      "hash": "sha256-4uA00usfUSLK2Kwh5+3ANn+uq+bc9OBIlBmBFViHjdM=",
+      "url": "images\/Pexels Logo.png"
+    },
+    {
+      "hash": "sha256-pDrK5ugVzeWMmA7aBU7oYYRJLK\/sDNXzIoiy7xqyroU=",
       "url": "index.html"
     },
     {
@@ -61,7 +65,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-q+A0MIirr7MHFZB4HWabybztiQL3yt5vmVrq5kbbeRA=",
+      "hash": "sha256-GpCgqMlmURl7R90m7eebv0r+XP89ZBjiZ7q85xiJd7M=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -81,7 +85,7 @@
       "url": "_framework\/Blazorise.wasm"
     },
     {
-      "hash": "sha256-vRSLnOWHOX1QS9OJn6x3p0bVA7B8+44cfBiC4TRfx9o=",
+      "hash": "sha256-+cOixSSWbSKeBtkdv01rcRxXF0n7cO21u9tTTwrzyRA=",
       "url": "_framework\/CA3_X00167885.wasm"
     },
     {
@@ -517,5 +521,5 @@
       "url": "_content\/Blazorise\/vendors\/sha512.js"
     }
   ],
-  "version": "tNdbvckb"
+  "version": "SVoLp4j\/"
 };
