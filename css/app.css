@@ -105,18 +105,20 @@ code {
 /* CUSTOM CSS BELOW */
 
 /* Image grid and like button appearance styling.*/
-.image-container {
-    height: 200px; /* Fixed height for the container */
-}
 
-    /* Add */
+    /* Fixed height for the iamge container. */    
+    .image-container {
+        height: 200px; 
+    }
+
+    /* Getting proper sizing for image in photo*/
     .image-container img {
         height: 100%;
         width: 100%;
         object-fit: cover;
     }
 
-    /* Like & remove.*/
+    /* Like & remove Photo CSS.*/
 
     /* Adjust the button positioning as needed */
     .image-container .like-remove-button {
@@ -146,6 +148,41 @@ code {
 
     /* Adding star icon */
     .image-container .star-icon {
+        color: yellow;
+        top: 1rem;
+        right: 1rem;
+        font-size: 1.5rem;
+    }
+
+    /* Fixed height for the video container */
+
+    /* Getting proper sizing for thumbnail in Video*/
+    .video-container {
+        height: 250px;
+    }
+
+    .video-container video {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    /* Adjust the button positioning as needed */
+    .video-container .like-remove-button {
+        display: none;
+        bottom: 12rem;
+        left: 1rem;
+    }
+
+    /* Displaying button on video hover */
+    .video-container:hover .like-remove-button {
+        display: block;
+    }
+
+    /* Download.*/
+
+    /* Adding star icon */
+    .video-container .star-icon {
         color: yellow;
         top: 1rem;
         right: 1rem;

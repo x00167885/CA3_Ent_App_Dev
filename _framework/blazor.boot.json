@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CA3_X00167885",
   "resources": {
-    "hash": "sha256-SeDAAxF7XERnjvVoEBrAWt6gb1/P4E0UwIyzx0diEkY=",
+    "hash": "sha256-Gn67h7mKxvCb1qef6VGyJaq9zVuAAg6xyGtBP6WQA1Q=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.g3xnkrqqhr.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -21,7 +21,7 @@
       "Blazorise.Icons.FontAwesome.wasm": "sha256-xWbnqP0pNFAkjazSdocYOTy7FI4OG0+i/Nc60d3WAfY=",
       "Blazorise.Licensing.wasm": "sha256-Y2Ui1aeZmC81ki7yEI4xiRZMHZZNgfRT3XlZOwkdiCU=",
       "Blazorise.wasm": "sha256-GFkSgUnx/r7MyE6pS41qDtql9vSJ44vbaI5uk86ZRXs=",
-      "CA3_X00167885.wasm": "sha256-mreiKPMpL4D3HOa9wh+7sG9u8V5efkfEFfZgO040Vak=",
+      "CA3_X00167885.wasm": "sha256-vRSLnOWHOX1QS9OJn6x3p0bVA7B8+44cfBiC4TRfx9o=",
       "DeepCloner.wasm": "sha256-JFrc0XdxhCpcC/rNoZ4sGLtZTNiex5j561fsLJEixRY=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-c59V5ciszL3amfrwxL+mNDoKTcCa6dxFzmg/zGO1LDs=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-ILBkkoXgAeCCMk8vmyW5Z0tdU7EMZs4svYQ2Lgudo3g=",
