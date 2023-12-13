@@ -69,7 +69,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-aHJ1K1Z2Yd0Fsvq+ejhuP43k5kt2lDAjy9xjnKnkRm0=",
+      "hash": "sha256-CESGqJjeBGfHaX+sGVmS47plQYVmjtEw8FZtoj9rE0o=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -89,7 +89,7 @@
       "url": "_framework\/Blazorise.wasm"
     },
     {
-      "hash": "sha256-CRJOvFKaJb4VO3MPyFjacojGHbIGWDEYED6iE9jbD4s=",
+      "hash": "sha256-nJD1J3R6J3hlHMc57vPIuUQyNd\/n\/klg4l7hfKH+nnQ=",
       "url": "_framework\/CA3_X00167885.wasm"
     },
     {
@@ -249,7 +249,7 @@
       "url": "_framework\/System.Formats.Asn1.wasm"
     },
     {
-      "hash": "sha256-6IKjsqUK\/eqqg0f\/SOpflPwaeyw1xHfTfJc9BEcSvzA=",
+      "hash": "sha256-JnATwy1E+4BK8cv3LJ+\/x1zJVgk6vuBXABdlX2ijIFk=",
       "url": "_framework\/System.Linq.Expressions.wasm"
     },
     {
@@ -325,7 +325,7 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-xzTMKAGjoTshJQgAnF+vB\/EKxl\/YGYq+TTk8PBekXI8=",
+      "hash": "sha256-BaiTiWaxXnnUazDp7UuyA2VYZqwSg\/NfJeGcXb8CTxQ=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -525,5 +525,5 @@
       "url": "_content\/Blazorise\/vendors\/sha512.js"
     }
   ],
-  "version": "kg1j3RKA"
+  "version": "Z0R8PLqz"
 };
